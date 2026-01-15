@@ -193,3 +193,32 @@
 [submodule "Arty-A7-100-GPIO"]
 	path = Arty-A7-100-GPIO
 	url = https://github.com/mwwhited-forks/Arty-A7-100-GPIO.git
+	upstream = https://github.com/Digilent/Arty-A7-100-GPIO.git
+[submodule "Arty-A7-100-Pmod-VGA"]
+	path = Arty-A7-100-Pmod-VGA
+	url = https://github.com/mwwhited-forks/Arty-A7-100-Pmod-VGA.git
+	upstream = https://github.com/Digilent/Arty-A7-100-Pmod-VGA.git
+[submodule "Tennis-for-Two"]
+	path = Tennis-for-Two
+	url = https://github.com/mwwhited-forks/Tennis-for-Two.git
+	upstream = https://github.com/jasoneppink/Tennis-for-Two.git
+[submodule "EP2C5-Cyclone-II-Mini-Board"]
+	path = EP2C5-Cyclone-II-Mini-Board
+	url = https://github.com/mwwhited-forks/EP2C5-Cyclone-II-Mini-Board.git
+	upstream = https://github.com/land-boards/EP2C5-Cyclone-II-Mini-Board.git
+[submodule "Neural-Network-Experiments"]
+	path = Neural-Network-Experiments
+	url = https://github.com/mwwhited-forks/Neural-Network-Experiments.git
+	upstream = https://github.com/SebLague/Neural-Network-Experiments.git
+[submodule "de5000_lcr_py"]
+	path = de5000_lcr_py
+	url = https://github.com/mwwhited-forks/de5000_lcr_py.git
+	upstream = https://github.com/4x1md/de5000_lcr_py.git
+[submodule "CentronicsArduino"]
+	path = CentronicsArduino
+	url = https://github.com/mwwhited-forks/CentronicsArduino.git
+	upstream = https://github.com/boriz/CentronicsArduino.git
+[submodule "CommandLineFPS"]
+	path = CommandLineFPS
+	url = https://github.com/mwwhited-forks/CommandLineFPS.git
+	upstream = https://github.com/OneLoneCoder/CommandLineFPS.git
