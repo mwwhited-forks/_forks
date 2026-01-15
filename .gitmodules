@@ -1,0 +1,56 @@
+[submodule "BlockChainExample"]
+	path = BlockChainExample
+	url = https://github.com/mwwhited-forks/BlockChainExample.git
+	upstream = https://github.com/mcbethr/BlockChainExample.git
+[submodule "MSBuild.Sdk.SqlProj"]
+	path = MSBuild.Sdk.SqlProj
+	url = https://github.com/mwwhited-forks/MSBuild.Sdk.SqlProj.git
+	upstream = https://github.com/rr-wfm/MSBuild.Sdk.SqlProj.git
+[submodule "cline"]
+	path = cline
+	url = https://github.com/mwwhited-forks/cline.git
+	upstream = https://github.com/cline/cline.git
+[submodule "vivado-library"]
+	path = vivado-library
+	url = https://github.com/mwwhited-forks/vivado-library.git
+	upstream = https://github.com/Digilent/vivado-library.git
+[submodule "DOOM"]
+	path = DOOM
+	url = https://github.com/mwwhited-forks/DOOM.git
+	upstream = https://github.com/id-Software/DOOM.git
+[submodule "sql-server-language-extensions"]
+	path = sql-server-language-extensions
+	url = https://github.com/mwwhited-forks/sql-server-language-extensions.git
+	upstream = https://github.com/microsoft/sql-server-language-extensions.git
+[submodule "Device.Net"]
+	path = Device.Net
+	url = https://github.com/mwwhited-forks/Device.Net.git
+	upstream = https://github.com/MelbourneDeveloper/Device.Net
+[submodule "nikon-firmware-tools"]
+	path = nikon-firmware-tools
+	url = https://github.com/mwwhited-forks/nikon-firmware-tools.git
+	upstream = https://github.com/simeonpilgrim/nikon-firmware-tools
+[submodule "digilent-xdc"]
+	path = digilent-xdc
+	url = https://github.com/mwwhited-forks/digilent-xdc.git
+	upstream = https://github.com/mwwhited-forks/digilent-xdc.git
+[submodule "cyclonedx-dotnet"]
+	path = cyclonedx-dotnet
+	url = https://github.com/mwwhited-forks/cyclonedx-dotnet.git
+	upstream = https://github.com/CycloneDX/cyclonedx-dotnet.git
+[submodule "Digital"]
+	path = Digital
+	url = https://github.com/mwwhited-forks/Digital.git
+	upstream = https://github.com/hneemann/Digital.git
+[submodule "smtp4dev"]
+	path = smtp4dev
+	url = https://github.com/mwwhited-forks/smtp4dev.git
+	upstream = https://github.com/rnwood/smtp4dev.git
+[submodule "gigatron-rom"]
+	path = gigatron-rom
+	url = https://github.com/mwwhited-forks/gigatron-rom.git
+	upstream = https://github.com/kervinck/gigatron-rom.git
+[submodule "vivado-boards"]
+	path = vivado-boards
+	url = https://github.com/mwwhited-forks/vivado-boards.git
+	upstream = https://github.com/Digilent/vivado-boards.git
