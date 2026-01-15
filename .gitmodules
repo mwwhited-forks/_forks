@@ -157,3 +157,39 @@
 [submodule "MS-DOS"]
 	path = MS-DOS
 	url = https://github.com/mwwhited-forks/MS-DOS.git
+	upstream = https://github.com/microsoft/MS-DOS.git
+[submodule "avr_eefs"]
+	path = avr_eefs
+	url = https://github.com/mwwhited-forks/avr_eefs.git
+	upstream = https://github.com/nasa/eefs.git
+[submodule "SDSoC-Tutorials"]
+	path = SDSoC-Tutorials
+	url = https://github.com/mwwhited-forks/SDSoC-Tutorials.git
+	upstream = https://github.com/Xilinx/SDSoC-Tutorials.git
+[submodule "Netduino.Foundation"]
+	path = Netduino.Foundation
+	url = https://github.com/mwwhited-forks/Netduino.Foundation.git
+	upstream = https://github.com/WildernessLabs/Netduino.Foundation.git
+[submodule "openarty"]
+	path = openarty
+	url = https://github.com/mwwhited-forks/openarty.git
+	upstream = https://github.com/ZipCPU/openarty.git
+[submodule "ecowitt_http_gateway"]
+	path = ecowitt_http_gateway
+	url = https://github.com/mwwhited-forks/ecowitt_http_gateway.git
+	upstream = https://github.com/iz0qwm/ecowitt_http_gateway.git
+[submodule "NikonEmulator"]
+	path = NikonEmulator
+	url = https://github.com/mwwhited-forks/NikonEmulator.git
+	upstream = https://github.com/davidgfb/NikonEmulator.git
+[submodule "friendly-buspirate"]
+	path = friendly-buspirate
+	url = https://github.com/mwwhited-forks/friendly-buspirate.git
+	upstream = https://github.com/dsl400/friendly-buspirate.git
+[submodule "Quake-III-Arena"]
+	path = Quake-III-Arena
+	url = https://github.com/mwwhited-forks/Quake-III-Arena.git
+	upstream = https://github.com/id-Software/Quake-III-Arena.git
+[submodule "Arty-A7-100-GPIO"]
+	path = Arty-A7-100-GPIO
+	url = https://github.com/mwwhited-forks/Arty-A7-100-GPIO.git
