@@ -113,3 +113,47 @@
 [submodule "MultiComp"]
 	path = MultiComp
 	url = https://github.com/mwwhited-forks/MultiComp.git
+	upstream = https://github.com/douggilliland/MultiComp.git
+[submodule "wolf3d"]
+	path = wolf3d
+	url = https://github.com/mwwhited-forks/wolf3d.git
+	upstream = https://github.com/id-Software/wolf3d.git
+[submodule "netv-fpga"]
+	path = netv-fpga
+	url = https://github.com/mwwhited-forks/netv-fpga.git
+	upstream = https://github.com/bunnie/netv-fpga.git
+[submodule "RN-52"]
+	path = RN-52
+	url = https://github.com/mwwhited-forks/RN-52.git
+	upstream = https://github.com/sparkfun/RN-52.git
+[submodule "MIDI_Breakout"]
+	path = MIDI_Breakout
+	url = https://github.com/mwwhited-forks/MIDI_Breakout.git
+	upstream = https://github.com/mwwhited-forks/MIDI_Breakout.git
+[submodule "quartus-DE0-project"]
+	path = quartus-DE0-project
+	url = https://github.com/mwwhited-forks/quartus-DE0-project.git
+	upstream = https://github.com/thomasrussellmurphy/quartus-DE0-project.git
+[submodule "Quake"]
+	path = Quake
+	url = https://github.com/mwwhited-forks/Quake.git
+	upstream = https://github.com/id-Software/Quake.git
+[submodule "i2c-master"]
+	path = i2c-master
+	url = https://github.com/mwwhited-forks/i2c-master.git
+	upstream = https://github.com/joelagnel/i2c-master.git
+[submodule "WebScraper_Csharp"]
+	path = WebScraper_Csharp
+	url = https://github.com/mwwhited-forks/WebScraper_Csharp.git
+	upstream = https://github.com/NNN28/WebScraper_Csharp.git
+[submodule "Markdig.Extensions.ScriptCs"]
+	path = Markdig.Extensions.ScriptCs
+	url = https://github.com/mwwhited-forks/Markdig.Extensions.ScriptCs.git
+	upstream = https://github.com/macaba/Markdig.Extensions.ScriptCs.git
+[submodule "Quake-2"]
+	path = Quake-2
+	url = https://github.com/mwwhited-forks/Quake-2.git
+	upstream = https://github.com/id-Software/Quake-2.git
+[submodule "MS-DOS"]
+	path = MS-DOS
+	url = https://github.com/mwwhited-forks/MS-DOS.git
