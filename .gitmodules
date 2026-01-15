@@ -1,56 +1,115 @@
 [submodule "BlockChainExample"]
 	path = BlockChainExample
 	url = https://github.com/mwwhited-forks/BlockChainExample.git
-#	upstream = https://github.com/mcbethr/BlockChainExample.git
+	upstream = https://github.com/mcbethr/BlockChainExample.git
 [submodule "MSBuild.Sdk.SqlProj"]
 	path = MSBuild.Sdk.SqlProj
 	url = https://github.com/mwwhited-forks/MSBuild.Sdk.SqlProj.git
-#	upstream = https://github.com/rr-wfm/MSBuild.Sdk.SqlProj.git
+	upstream = https://github.com/rr-wfm/MSBuild.Sdk.SqlProj.git
 [submodule "cline"]
 	path = cline
 	url = https://github.com/mwwhited-forks/cline.git
-#	upstream = https://github.com/cline/cline.git
+	upstream = https://github.com/cline/cline.git
 [submodule "vivado-library"]
 	path = vivado-library
 	url = https://github.com/mwwhited-forks/vivado-library.git
-#	upstream = https://github.com/Digilent/vivado-library.git
+	upstream = https://github.com/Digilent/vivado-library.git
 [submodule "DOOM"]
 	path = DOOM
 	url = https://github.com/mwwhited-forks/DOOM.git
-#	upstream = https://github.com/id-Software/DOOM.git
+	upstream = https://github.com/id-Software/DOOM.git
 [submodule "sql-server-language-extensions"]
 	path = sql-server-language-extensions
 	url = https://github.com/mwwhited-forks/sql-server-language-extensions.git
-#	upstream = https://github.com/microsoft/sql-server-language-extensions.git
+	upstream = https://github.com/microsoft/sql-server-language-extensions.git
 [submodule "Device.Net"]
 	path = Device.Net
 	url = https://github.com/mwwhited-forks/Device.Net.git
-#	upstream = https://github.com/MelbourneDeveloper/Device.Net
+	upstream = https://github.com/MelbourneDeveloper/Device.Net
 [submodule "nikon-firmware-tools"]
 	path = nikon-firmware-tools
 	url = https://github.com/mwwhited-forks/nikon-firmware-tools.git
-#	upstream = https://github.com/simeonpilgrim/nikon-firmware-tools
+	upstream = https://github.com/simeonpilgrim/nikon-firmware-tools
 [submodule "digilent-xdc"]
 	path = digilent-xdc
 	url = https://github.com/mwwhited-forks/digilent-xdc.git
-#	upstream = https://github.com/mwwhited-forks/digilent-xdc.git
+	upstream = https://github.com/mwwhited-forks/digilent-xdc.git
 [submodule "cyclonedx-dotnet"]
 	path = cyclonedx-dotnet
 	url = https://github.com/mwwhited-forks/cyclonedx-dotnet.git
-#	upstream = https://github.com/CycloneDX/cyclonedx-dotnet.git
+	upstream = https://github.com/CycloneDX/cyclonedx-dotnet.git
 [submodule "Digital"]
 	path = Digital
 	url = https://github.com/mwwhited-forks/Digital.git
-#	upstream = https://github.com/hneemann/Digital.git
+	upstream = https://github.com/hneemann/Digital.git
 [submodule "smtp4dev"]
 	path = smtp4dev
 	url = https://github.com/mwwhited-forks/smtp4dev.git
-#	upstream = https://github.com/rnwood/smtp4dev.git
+	upstream = https://github.com/rnwood/smtp4dev.git
 [submodule "gigatron-rom"]
 	path = gigatron-rom
 	url = https://github.com/mwwhited-forks/gigatron-rom.git
-#	upstream = https://github.com/kervinck/gigatron-rom.git
+	upstream = https://github.com/kervinck/gigatron-rom.git
 [submodule "vivado-boards"]
 	path = vivado-boards
 	url = https://github.com/mwwhited-forks/vivado-boards.git
-#	upstream = https://github.com/Digilent/vivado-boards.git
+	upstream = https://github.com/Digilent/vivado-boards.git
+[submodule "olcPixelGameEngine"]
+	path = olcPixelGameEngine
+	url = https://github.com/mwwhited-forks/olcPixelGameEngine
+	upstream = https://github.com/OneLoneCoder/olcPixelGameEngine
+[submodule "HidSharp"]
+	path = HidSharp
+	url = https://github.com/mwwhited-forks/HidSharp.git
+	upstream = https://github.com/IntergatedCircuits/HidSharp.git
+[submodule "HidSharp"]
+	path = HidSharp
+	url = https://github.com/mwwhited-forks/SqlClrVector.git
+	upstream = https://github.com/erincon01/Vector.git
+[submodule "Auto_Jobs_Applier_AIHawk"]
+	path = Auto_Jobs_Applier_AIHawk
+	url = https://github.com/mwwhited-forks/Auto_Jobs_Applier_AIHawk.git
+	upstream = https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk
+[submodule "MiniEngineeringNotebooks"]
+	path = MiniEngineeringNotebooks
+	url = https://github.com/mwwhited-forks/MiniEngineeringNotebooks.git
+	upstream = https://github.com/alaricmoore/MiniEngineeringNotebooks.git
+[submodule "AI-Image-Denoiser"]
+	path = AI-Image-Denoiser
+	url = https://github.com/mwwhited-forks/AI-Image-Denoiser.git
+	upstream = https://github.com/Cydral/AI-Image-Denoiser.git
+[submodule "Altera-Cyclone-II-FPGA"]
+	path = Altera-Cyclone-II-FPGA
+	url = https://github.com/mwwhited-forks/Altera-Cyclone-II-FPGA.git
+	upstream = https://github.com/tocache/Altera-Cyclone-II-FPGA.git
+[submodule "qb64"]
+	path = qb64
+	url = https://github.com/mwwhited-forks/qb64.git
+	upstream = https://github.com/QB64Team/qb64.git
+[submodule "DuetSoftwareFramework"]
+	path = DuetSoftwareFramework
+	url = https://github.com/mwwhited-forks/DuetSoftwareFramework.git
+	upstream = https://github.com/Duet3D/DuetSoftwareFramework.git
+[submodule "Pmod-I2S2"]
+	path = Pmod-I2S2
+	url = https://github.com/mwwhited-forks/Pmod-I2S2.git
+	upstream = https://github.com/Digilent/Pmod-I2S2.git
+[submodule "olcNES"]
+	path = olcNES
+	url = https://github.com/mwwhited-forks/olcNES.git
+	upstream = https://github.com/OneLoneCoder/olcNES.git
+[submodule "DuetWebControl"]
+	path = DuetWebControl
+	url = https://github.com/mwwhited-forks/DuetWebControl.git
+	upstream = https://github.com/Duet3D/DuetWebControl.git
+[submodule "pl2303-win10"]
+	path = pl2303-win10
+	url = https://github.com/mwwhited-forks/pl2303-win10.git
+	upstream = https://github.com/johnstevenson/pl2303-win10.git
+[submodule "pl2303-legacy"]
+	path = pl2303-legacy
+	url = https://github.com/mwwhited-forks/pl2303-legacy.git
+	upstream = https://github.com/johnstevenson/pl2303-legacy.git
+[submodule "MultiComp"]
+	path = MultiComp
+	url = https://github.com/mwwhited-forks/MultiComp.git
